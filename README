@@ -1,4 +1,8 @@
 Knapsack is a famous optimization problem. 
 
+Indiana Jones: """There are lot of artifacts available in this dungeon. 
+               But I cant carry all these artifacts in my Knapsack. 
+               I have to find an optimal way to select the artifacts to fit in this bag"""
+
 For this project I have used Greedy algorithm and dynammic programming.
 I'll update this file when I use new algorithms for solving the knapsack problem.
